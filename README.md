@@ -6,130 +6,138 @@
 
 > **"Gelişim = (Zihinsel Disiplin x Saha Pratiği)^Karakter Derinliği"**
 
-Bu depo; teorik bilginin pratikle, zihinsel disiplinin mühendislikle ve vizyonun sahadaki terle birleştiği bir **üst-gelişim manifestosudur**. Modern dünyanın sunduğu "parçalı uzmanlık" yanılgısına karşı; zihni, donanımı, kodu ve mimariyi tek bir "Zanaat" (Craft) olarak ele alır.
+Bu depo; teorik bilginin pratikle, zihinsel disiplinin mühendislikle ve vizyonun sahadaki terle birleştiği bir **üst-gelişim manifestosudur**. Modern çağın en büyük yanılgısı, "kişisel gelişim" ile "kariyer gelişimini" birbirinden ayrı kutulara hapsetmektir. Oysa bir zanaatkar için; **kendini inşa etmek, dünyayı inşa etmenin ön koşuludur.**
+
+---
+
+## 🏛️ Vizyon: Kendini İnşa Etmek, Dünyayı İnşa Etmektir
+
+Bütünsel Zanaatkarlık (Holistic Craftsmanship), teknik bir yetkinlik setinden ziyade bir **varoluş biçimidir**. Biz inanıyoruz ki:
+- **Karakterin derinliği yoksa, kodun derinliği de yoktur.**
+- **Zihnini disipline edemeyen, karmaşık sistemleri yönetemez.**
+- **Etik bir duruşu olmayan mühendislik, sadece bir yıkım aracıdır.**
+
+Bu rehber, sizi sadece "daha iyi bir yazılımcı" veya "daha iyi bir mühendis" yapmayı değil; zihni, bedeni ve ruhu bir mühendislik hassasiyetiyle işleyen **Bütünsel İnsan'a** dönüştürmeyi amaçlar.
 
 ---
 
 ## 🏛️ Beş Büyük Usta: Ontolojik Sütunlar
 
-Bu rehber, insanlık tarihinin teknik ve zihinsel zirvelerini temsil eden beş büyük ustanın mirası üzerine inşa edilmiştir.
-
 ### 1. 🏛️ Marcus Aurelius: Zihinsel İşletim Sistemi
-"Roma İmparatoru ve Stoacı filozof Aurelius, dış dünyadaki kaosu yönetebilmek için önce 'İçsel Kale'yi inşa etmeyi emreder."
+"Karakterin temeli, zihnin sarsılmazlığıdır."
 
 > "Zihniniz üzerinde gücünüz var, dış olaylar üzerinde değil. Bunu idrak ettiğinizde güç bulacaksınız."
 >
-> "Eğer bir dış etken seni üzüyorsa, duyduğun acı o şeyin kendisinden değil, senin ona verdiğin değerden kaynaklanıyordur; ve bu değeri her an iptal etme gücüne sahipsin."
+> "Bir insanın hayatı, düşüncelerinin rengiyle boyanır. Öyleyse zihnini, sadece en saf ve en asil olanla doldur."
 >
 > "Sabah uyandığında kendine şunu söyle: Bugün karşılaşacağım insanlar şükürsüz, kaba, kıskanç ve bencil olacaklar. Bunların hepsi, iyilikle kötülüğü birbirinden ayıramadıkları için başlarına geliyor."
 
-*   **Zanaat Aksiyonu:** Kod derlenmediğinde veya sistem çöktüğünde duygusal tepki verme. Sadece kontrol edebildiğin değişkenlere (algoritma, mantık) odaklan.
+*   **Zanaat Aksiyonu:** Kariyerinizdeki engelleri (buglar, krizler, başarısızlıklar) karakterinizi test eden birer "simülasyon" olarak görün. Sükunet, en büyük teknik yetkinliktir.
 *   [[Doktrin Detayları]](docs/01-philosophy/AURELIUS_DOCTRINE.md)
 
 ### 2. 👁️ Leonardo da Vinci: Bütünsel Görüş
-"Nihai hezarfen Da Vinci, her şeyin diğer her şeyle bağlantılı olduğu ilkesiyle sistem felsefesini öğretir."
+"Dünya bir bütündür, parçalara bölmek sadece zayıflıktır."
 
 > "Sanatın bilimini inceleyin. Bilimin sanatını inceleyin. Duyularınızı geliştirin, özellikle de görmeyi öğrenin. Her şeyin diğer her şeyle bağlantılı olduğunu idrak edin."
 >
 > "Bilmek yeterli değildir, uygulamalıyız. İstemek yeterli değildir, yapmalıyız."
 >
-> "Demir kullanılmadığında paslanır, durgun su saflığını kaybeder ve soğukta donar; aynı şekilde atalet de zihnin gücünü tüketir."
+> "Eksiksiz bir zihin için; her şeyi sorgulayan bir merak, her şeyi deneyen bir sabır gerekir."
 
-*   **Zanaat Aksiyonu:** Sadece yazdığın fonksiyonu düşünme. O fonksiyonun donanımı nasıl zorlayacağını ve kullanıcıya nasıl yansıyacağını (Saper Vedere) analiz et.
+*   **Zanaat Aksiyonu:** Kariyerinizdeki her teknik problem, kişisel hayatınızdaki bir analojiyle çözülebilir. Sistemleri bir bütün olarak görmeyi öğrenin.
 *   [[El Kitabı Detayları]](docs/01-philosophy/DA_VINCI_HANDBOOK.md)
 
 ### 3. ⚡ Nikola Tesla: Zihinsel Simülasyon
-"Tesla, bir sistemi fiziksel olarak inşa etmeden önce onu zihninde aylarca çalıştıran tavizsiz disiplinin zirvesidir."
+"Gelecek, onu bugünden zihninde inşa edenlerindir."
 
 > "Bırakın doğruları gelecek söylesin ve herkesi eserlerine ve başarılarına göre değerlendirsin. Bugün onların olsun; ama uğruna çok çalıştığım gelecek, benimdir."
 >
 > "Benim beynim sadece bir alıcıdır. Evrende, bilgiyi, gücü ve ilhamı ondan aldığımız bir çekirdek vardır."
 >
-> "Bir fikir zihinde canlandığında, o fikrin gerçekleşmesi için gereken her detay zaten oradadır. Ben sadece o detayları fiziksel dünyaya döküyorum."
+> "Düşünmek bir zevktir, ama bir şeyi gerçekleştirmek bir ibadettir."
 
-*   **Zanaat Aksiyonu:** Koda dokunmadan önce mimariyi zihinde çalıştır. Darboğazları en temel fizik ve mantık kurallarıyla önceden gör.
+*   **Zanaat Aksiyonu:** Vizyonunuzu sadece kariyer hedefleriyle sınırlamayın. Zihninizde öyle bir gelecek tasarlayın ki, mevcut gerçeklik ona boyun eğmek zorunda kalsın.
 *   [[Protokol Detayları]](docs/01-philosophy/TESLA_PROTOCOL.md)
 
 ### 4. 🏰 Mimar Sinan: Mimari Sağlamlık
-"Sinan, yüzyıllarca ayakta kalan yapıların sırrını 'Sabit Ayak' (Etik/Temel) ve 'Hareketli Ayak' (Yenilik) dengesinde bulur."
+"Temeli sarsılmaz olanın, zirvesi göğe ulaşır."
 
 > "Ustamın eli altında, tıpkı bir pergelin sabit ayağı gibi kararlı ve sarsılmaz bir şekilde durup merkezi gözledim. Sonra pergelin hareketli ayağı gibi, başka diyarları gezmeye heveslendim."
 >
 > "Yaptığın işi gönlünde hissedersen, o iş seni sonsuzluğa taşır."
 >
-> "Sabır, bütün başarıların anahtarıdır. Ben sadece sabırla taşları bir araya getirdim, ama o taşları bir arada tutan şey, arkasındaki statik akıldır."
+> "Bir yapının sağlamlığı, taşların birbirine duyduğu saygıdan gelir."
 
-*   **Zanaat Aksiyonu:** Görünen arayüzden veya makyajdan önce, yazdığın kodun siber güvenliğini ve sistemin çökme toleransını inşa et.
+*   **Zanaat Aksiyonu:** Kariyerinizdeki "sabit ayak" etik değerleriniz ve karakterinizdir. Hareketli ayağınız ise sürekli öğrenen mühendislik ruhunuzdur.
 *   [[Statik Detayları]](docs/01-philosophy/SINAN_STATICS.md)
 
 ### 5. 🐧 Linus Torvalds: Pragmatizm ve Gerçeklik
-"Torvalds, laf kalabalığını reddeder; onun için tek gerçeklik kodun kalitesi ve verinin doğru yapılandırılmasıdır."
+"Kod asla yalan söylemez, ama insanlar söyler."
 
 > "Konuşmak bedavadır. Bana kodu göster." *(Talk is cheap. Show me the code.)*
 >
 > "Kötü programcılar kod için endişelenir. İyi programcılar ise veri yapıları ve onların arasındaki ilişkiler için endişelenir."
 >
-> "Yazılım, zekâdan ziyade sabır ve veri yapıları meselesidir. Eğer veri yapılarını doğru kurduysanız, kod zaten kendini yazar."
+> "İtibar, ne yaptığınızla değil, neyi çalıştırmayı başardığınızla kazanılır."
 
-*   **Zanaat Aksiyonu:** Fikirlerini tartışmayı bırak. İcraata geç. Açık kaynak bir repoya katkıda bulun. "Bana kodu/donanımı göster."
+*   **Zanaat Aksiyonu:** Kişisel gelişim kitapları okuyarak değil, en zorlu teknik problemleri çözerek karakterinizi inşa edin. İcraat, en büyük dürüstlüktür.
 *   [[Manifesto Detayları]](docs/01-philosophy/TORVALDS_MANIFESTO.md)
 
 ---
 
-## 📜 Zanaatkarın Manifestosu
+## 📜 Zanaatkarın Manifestosu: Onur ve Teknik
 
-1.  **Önce Zihin, Sonra Donanım:** Hiçbir sistem, onu tasarlayan zihnin kalitesinden daha yüksek olamaz.
-2.  **Parçalanmaz Bütünlük:** Donanım, yazılım ve mekanik; bir elin parmakları gibidir. Birini ihmal etmek, zanaatı sakat bırakmaktır.
-3.  **Pergel İlkesi:** Bir ayağın daima temel mühendislik prensiplerine (sabit), diğer ayağın ise en yeni teknolojilere (hareketli) basmalı.
-4.  **Estetik İşlevdir:** İyi tasarlanmış bir sistem, doğası gereği estetiktir. Dağınıklık, zihinsel karmaşanın dışa vurumudur.
-5.  **Miras Bırakmak İçin İnşa Et:** Sadece bugünü kurtarma. Yüz yıl sonra bile okunacak bir kod, yıkılmayacak bir yapı bırak.
+1.  **Kendine Hükmet, Maddeye Hükmet:** Kendi zihnini fethetmeyen, karmaşık bir sistemi yönetemez.
+2.  **Öğrenme Bir İbadettir:** Bilgiye erişmek bir haktır, ama onu işlemek bir onur meselesidir.
+3.  **Radikal Dürüstlük:** Kodundaki hatayı saklayan, karakterindeki hatayı da saklar. Şeffaflık, ustalığın kapısıdır.
+4.  **Estetik Bir Zorunluluktur:** Çirkin bir kod, zayıf bir zihnin dökümantasyonudur. Zerafet, sadeliktedir.
+5.  **Miras Bilinci:** Biz sadece bugünün problemlerini çözmüyoruz; biz, bizden sonrakilerin üzerine inşa edebileceği bir temel bırakıyoruz.
 
 ---
 
 ## 🛰️ Uygulama Müfredatı (The Roadmap)
 
-| Evre | Seviye | Odak | Ustalar | Kod / Araç |
+| Evre | Seviye | Odak | Ustalar | Kişisel Gelişim Hedefi |
 | :--- | :--- | :--- | :--- | :--- |
-| **Evre 1** | Tabula Rasa | C, Pointers, Memory | Aurelius, Torvalds | `hello_artisan.c` |
-| **Evre 2** | Connection | Linux, Networks, Shell | Da Vinci, Torvalds | `sys_monitor.sh` |
-| **Evre 3** | Flow | Robotics, Control, AI | Tesla, Da Vinci | `pid_controller.cpp` |
-| **Evre 4** | Mastery | Security, Cloud, Arch | Sinan, Tesla | `secure_vault.c` |
+| **Evre 1** | Tabula Rasa | C, Pointers, Memory | Aurelius, Torvalds | Sabır ve Öz-Disiplin |
+| **Evre 2** | Connection | Linux, Networks, Shell | Da Vinci, Torvalds | Bütünsel Görüş (Sistem Düşüncesi) |
+| **Evre 3** | Flow | Robotics, Control, AI | Tesla, Da Vinci | Derin Odaklanma ve Vizyonerlik |
+| **Evre 4** | Mastery | Security, Cloud, Arch | Sinan, Tesla | Etik Liderlik ve Kalıcılık |
 
 > [!TIP]
 > Gelişiminizi teknik ve felsefi olarak nasıl ölçeceğinizi görmek için [Ustalık Matrisi'ni](docs/02-curriculum/MASTERY_MATRIX.md) inceleyin.
 
+---
 
-### 🚀 Başlangıç Adımları
-Çalışma alanınızı tek komutla hazırlayın:
+## 🧘 Günlük Zanaat Protokolü: Ruh ve Teknik Sentezi
+
+1.  **Stoacı Sabah (07:00 - 08:00):** Meditasyon, günlük niyet belirleme ve günün en zorlu bug'ına zihinsel hazırlık.
+2.  **Tesla Bloğu (08:00 - 12:00):** Derin odaklanma. Bildirim yok. Zihinsel simülasyon ve yoğun üretim.
+3.  **Da Vinci Köprüsü (14:00 - 15:00):** Farklı disiplinler arası okumalar (Felsefe, Sanat, Biyoloji) ve teknik işe entegrasyon.
+4.  **Sinan Denetimi (16:00 - 17:00):** İnşa edilen yapının (kod/sistem) sağlamlık ve güvenlik testi.
+5.  **Torvalds PR (17:00 - 18:00):** İcraatın belgelenmesi, toplulukla paylaşılması ve radikal geri bildirim alma.
+
+---
+
+## 📊 Aksiyon ve İlerleme: Tarihe Not Düşmek
+
+Bu yolculukta attığınız her adım, kendi kişisel tarihinize düştüğünüz bir nottur.
+
+*   **WEEK 01:** [Temel Atma Raporu](logs/weekly/WEEK_01_LOG.md)
+*   **LOG Şablonu:** [Artisan Log Template](logs/LOG_TEMPLATE.md)
+
+### 🛠️ Başlangıç
 ```bash
 bash tools/setup_env.sh
 ```
 
 ---
 
-## 🧘 Günlük Zanaat Protokolü
+## 🚀 Vizyon: Yolun Hakkını Vermek
 
-1.  **Tesla Saati (08:00 - 12:00):** Derin odaklanma. Bildirim yok. Sadece en zorlu teknik problem.
-2.  **Da Vinci Gözlemi (14:00 - 15:00):** Yazılan kodun sistem geneline etkisini analiz etme ve dökümantasyon.
-3.  **Sinan Denetimi (16:00 - 17:00):** Kodun statik güvenliği ve altyapı sağlamlık testi.
-4.  **Torvalds PR (17:00 - 18:00):** Kodun açık kaynak topluluğuna sunulması veya commit edilmesi.
+Bu repo, "birkaç kod örneği" barındıran bir klasör değildir. Bu repo; kendini inşa etmeye karar vermiş, kariyerini bir zanaat, hayatını ise bir sanat eseri olarak görenlerin **karargahıdır**. Biz yola çıkarken; sadece yazılım yazmayı değil, **insanlık onurunu mühendislik dehasıyla birleştirmeyi** hedefledik.
 
----
-
-## 📊 Aksiyon ve İlerleme Takibi
-
-İlerlemenizi `logs/weekly` dizinindeki haftalık raporlarla mühürleyin.
-
-*   **WEEK 01:** [Temel Atma Raporu](logs/weekly/WEEK_01_LOG.md)
-*   **LOG Şablonu:** [Artisan Log Template](logs/LOG_TEMPLATE.md)
+> "Gelecek, onu bugünden zihninde inşa edenlerindir. Bugün onların olsun; ama uğruna çok çalıştığım gelecek, benimdir." — Nikola Tesla
 
 ---
-
-## 🚀 Vizyon: Geleceğin İnşası
-
-Biz sadece yazılımcı veya mühendis değiliz. Biz; uzay teknolojilerinden otonom şehirlere, biyoteknolojiden kuantum hesaplamaya kadar **geleceğin zanaatkarlarıyız**.
-
-> "Gelecek, onu bugünden zihninde inşa edenlerindir." — Nikola Tesla
-
----
-*Bu rehber, teknik bir dökümandan ziyade, yaşayan bir mühendislik ruhudur.*
+*Bu rehber, teknik bir dökümandan ziyade, yaşayan bir mühendislik ruhudur. Kendini inşa etmeye hazır mısın?*
