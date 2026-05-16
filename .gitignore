@@ -1,0 +1,20 @@
+# Derleme Çıktıları
+*.o
+*.out
+*.exe
+build/
+bin/
+
+# IDE ve Editör Dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim Sistemi Dosyaları
+.DS_Store
+Thumbs.db
+
+# Loglar (Özel logların yanlışlıkla paylaşılmaması için)
+logs/weekly/*.md
+!logs/weekly/.gitkeep
