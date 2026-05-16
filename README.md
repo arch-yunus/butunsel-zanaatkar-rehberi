@@ -119,6 +119,17 @@ Bu rehber, sizi sadece "daha iyi bir yazılımcı" veya "daha iyi bir mühendis"
 
 ---
 
+## 🧘 Kişisel Gelişim ve Öz-Ustalık (Self-Mastery)
+
+Zanaatkarın en büyük projesi kendisidir. Kariyer gelişimi, kişisel gelişimden ayrı düşünülemez. Bu bölümde zihninizi ve bedeninizi en üst düzeye çıkaracak rehberler yer alır:
+
+*   **[Monk Mode (Keşiş Modu)](docs/03-self-mastery/MONK_MODE.md):** Derin odaklanma ve radikal izolasyon protokolü.
+*   **[Stoacı Egzersizler](docs/03-self-mastery/STOIC_EXERCISES.md):** Mühendislikte sarsılmazlık ve duygusal disiplin.
+*   **[Sağlık ve Vitalite](docs/03-self-mastery/HEALTH_AND_VITALITY.md):** Yüksek performanslı zihin için biyolojik optimizasyon.
+*   **[Zihinsel Modeller](docs/03-self-mastery/MENTAL_MODELS.md):** Problem çözme ve karar verme için bilişsel araç çantası.
+
+---
+
 ## 📊 Aksiyon ve İlerleme: Tarihe Not Düşmek
 
 Bu yolculukta attığınız her adım, kendi kişisel tarihinize düştüğünüz bir nottur.
